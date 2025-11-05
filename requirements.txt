@@ -3,11 +3,9 @@ transformers
 sentence-transformers
 torch
 torchvision
-Pillow
+faster-whisper
 deep-translator
 pandas
 scikit-learn
-pydub
-speechrecognition
-faster-whisper
+Pillow
 joblib
