@@ -1,7 +1,6 @@
 # ===============================================================
 # 🧠 AI Universal Studio — Versão PRO
 # ===============================================================
-# Autor: Claudio Hideki Yoshida
 # Descrição: Sistema multimodal que aprende com texto, imagem e voz
 # ===============================================================
 
