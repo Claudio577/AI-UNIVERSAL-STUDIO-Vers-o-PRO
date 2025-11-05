@@ -1,11 +1,9 @@
 streamlit
 transformers
-torch
-pandas
-scikit-learn
 Pillow
 deep-translator
-SpeechRecognition
+pandas
+scikit-learn
+speechrecognition
 pydub
 joblib
-matplotlib
